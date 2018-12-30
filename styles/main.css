@@ -43,4 +43,8 @@ img {
 
 img:hover {
 	opacity: 0.7;
-  }
+}
+
+.crossed {
+	text-decoration: line-through;
+}
