@@ -19,6 +19,10 @@ body {
 	display: block;
 }
 
+h1 {
+	color: #000000;
+}
+
 h2 {
 	margin-bottom: 0.8rem;
 }
