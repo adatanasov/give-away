@@ -9,6 +9,7 @@ body {
     line-height: 1.5;
 	color: #606c71;
 	box-sizing: border-box;
+	text-align: center;
 }
 
 #content {
@@ -16,10 +17,6 @@ body {
     margin: 0 auto;
 	font-size: 1.1rem;
 	display: block;
-}
-
-h1 {
-	text-align: center;
 }
 
 h2 {
