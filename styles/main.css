@@ -1,5 +1,5 @@
 html {
-	font-size: 16px;
+	font-size: 18px;
 }
 
 body {
@@ -21,25 +21,32 @@ body {
 
 h1 {
 	color: #000000;
+	margin: 1rem 0 0 0;
 }
 
 h2 {
-	margin-bottom: 0.8rem;
+	margin: 1.2rem 0 0 0;
 }
 
 p {
-	margin-top: 0.8rem;
+	margin: 0 0 0.5rem 0;
 }
 
 ul {
 	list-style-type: none;
+	padding: 0.7rem;
+	margin: 0;
+}
+
+li {
+	margin-bottom: 1rem;
 }
 
 img {
 	max-width: 16rem;
 	max-height: 20rem;
 	image-orientation: from-image;
-	margin-right: 10px;
+	margin-right: 0.6rem;
 }
 
 a img:hover {
