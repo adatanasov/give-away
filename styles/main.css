@@ -41,7 +41,7 @@ img {
 	image-orientation: from-image;
 }
 
-img:hover {
+a img:hover {
 	opacity: 0.7;
 }
 
