@@ -43,9 +43,6 @@ li {
 }
 
 img {
-	max-width: 16rem;
-	max-height: 20rem;
-	image-orientation: from-image;
 	margin-right: 0.6rem;
 }
 
