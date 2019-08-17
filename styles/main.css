@@ -73,7 +73,6 @@ a img:hover {
 	background-color: #F4F1EA;
 	line-height: 1;
 	margin-right: 8px;
-	/* margin-top: 8px; */
 	margin-bottom: 20px;
 }
 
@@ -97,8 +96,6 @@ a img.saved {
 	color: red;
 	position: absolute;
 	z-index: 1;
-	/* margin-left: 37px;
-	margin-top: 175px; */
 	left: 50%;
 	margin-left: -93px;
 	top: 50%;
