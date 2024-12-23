@@ -86,7 +86,11 @@ a img.saved {
 	opacity: 0.5;
 }
 
-.book-wrapper {
+.book-img {
+	height: 400px;
+}
+
+book-info {
 	position: relative;
 }
 
@@ -112,4 +116,8 @@ a img.saved {
 
 .stuff-flex h2,p {
 	max-width: 300px;
+}
+
+.hide {
+	display: none;
 }
