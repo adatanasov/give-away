@@ -15,7 +15,6 @@ class BookPic extends HTMLElement {
         let gifted = to !== undefined && to !== null && to.length > 0;
 
         return `<div>
-                    ${gifted ? `<span class="saved-overlay">ПОДАРЕНА</span> <!-- ${to} -->` : ''}
                     <a href="${bookUrl}" target="_blank">
                         <img class="${gifted ? 'saved ' : ''}book-img" src="${picUrl}" />
                     </a>
